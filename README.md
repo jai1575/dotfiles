@@ -1,10 +1,7 @@
 # Dotfiles
 ---
-## Table Of Contents:
-1. [Neovim] (#nvim)
-1. [Karabiner] (#karabiner)
 ## Rundown:
-- Neovim <a name="nvim"></a>
+- Neovim
     - Prerequisite
         1. ripgrep -For Live grep-
     - Plugins
@@ -36,7 +33,7 @@
         3. Smart Indent
         4. No swap file
 ---
-- Karabiner <a name="karabiner"></a>
+- Karabiner
     - Remappings
         1. Tab => Right super -Right CMD on macOS-
         1. Tab + H || J || K || L -Vim arrow navigation-
