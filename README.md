@@ -1,4 +1,4 @@
-# Configure various tools and linux with dotfiles, these are mine.
+# Dotfiles
 ---
 ## Rundown:
 - Neovim
