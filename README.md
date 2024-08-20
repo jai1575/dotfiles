@@ -1,5 +1,4 @@
 # Dotfiles
----
 ## Rundown:
 - Neovim
     - Prerequisite
