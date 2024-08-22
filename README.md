@@ -1,4 +1,4 @@
-# Dotfiles
+ok# Dotfiles
 ## Rundown:
 - Neovim
     - Prerequisite
@@ -13,7 +13,7 @@
         7. nvim-telescope/telescope.nvim
         8. lukas-reineke/indent-blankline.nvim
     - Mappings
-        - <leader> = <20> (space)
+        - leader is <20> (space)
         1. <leader>i, Open Dired
         2. <leader>o, Quit Dired
         3. <leader>f, CTRL + W x2
