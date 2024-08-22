@@ -1,4 +1,4 @@
-ok# Dotfiles
+# Dotfiles
 ## Rundown:
 - Neovim
     - Prerequisite
@@ -14,19 +14,19 @@ ok# Dotfiles
         8. lukas-reineke/indent-blankline.nvim
     - Mappings
         - leader is <20> (space)
-        1. <leader>i, Open Dired
-        2. <leader>o, Quit Dired
-        3. <leader>f, CTRL + W x2
-        4. <leader>k, CTRL + U
-        5. <leader>j, CTRL + D
-        6. <leader>g, ESC x2
-        8. <leader>g, Next Buffer
-        9. <leader>p, Previous Buffer
-        10. <leader>aw, CellularAutomaton make_it_rain
-        11. <leader>awww, CellularAutomaton game_of_life
+        1.  leader i, Open Dired
+        2.  leader o, Quit Dired
+        3.  leader f, CTRL + W x2
+        4.  leader k, CTRL + U
+        5.  leader j, CTRL + D
+        6.  leader g, ESC x2
+        8.  leader g, Next Buffer
+        9.  leader p, Previous Buffer
+        10.  leader aw, CellularAutomaton make_it_rain
+        11.  leader awww, CellularAutomaton game_of_life
         12. <C-k>, Delete Buffer
         13. K, Open Telescope buffer view
-        14. <leader>pd, Open Telescope w/ Live grep
+        14.  leader pd, Open Telescope w/ Live grep
     - Options
         1. Relative number with number
         2. Tab width 4 spaces
