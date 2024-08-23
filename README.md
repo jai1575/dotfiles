@@ -1,4 +1,6 @@
 # Dotfiles
+Non riced arch linux btw, custom keybinds with karabiner, and neovim with minimal plugins.
+
 ## Rundown:
 - Neovim
     - Prerequisite
@@ -22,8 +24,8 @@
         6.  leader g, ESC x2
         8.  leader g, Next Buffer
         9.  leader p, Previous Buffer
-        10. leader aw, CellularAutomaton make_it_rain
-        11. leader awww, CellularAutomaton game_of_life
+        10. leader aw, CellularAutomaton make_it_rain -Why not?-
+        11. leader awww, CellularAutomaton game_of_life -Why?-
         12. ctrl k, Delete Buffer
         13. K, Open Telescope buffer view
         14.  leader pd, Open Telescope w/ Live grep
